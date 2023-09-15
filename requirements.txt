@@ -1,0 +1,7 @@
+The Python package requirements needed to run this program are:
+
+- numpy
+- pandas
+- tensorflow
+
+These packages can be added directly to the requirements.txt file.
